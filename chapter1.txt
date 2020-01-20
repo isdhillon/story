@@ -1,0 +1,6 @@
+inderjeet is the best
+--INSERT--
+close
+:wq
+q
+
